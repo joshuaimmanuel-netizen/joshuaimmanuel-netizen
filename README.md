@@ -47,10 +47,10 @@ src="https://img.shields.io/github/followers/joshuaimmanuel-netizen?logo=github&
     </picture>
   </a>
   <a href="https://www.naukri.com/code360/profile/joshuaimmanuel1" target="_blank">
-    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Coding Ninjas Logo" style="width:200px;height:20px;">
+    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Coding Ninjas Logo" style="width:100px;height:20px;">
   </a>
   <a href="https://pathfinder.w3schools.com/profile" target="_blank">
-    <img src="https://www.w3schools.com/images/w3schools.png" alt="W3Schools Logo" style="width:200px;height:20px;">
+    <img src="https://www.w3schools.com/images/w3schools.png" alt="W3Schools Logo" style="width:100px;height:20px;">
   </a>
 </p>
 
