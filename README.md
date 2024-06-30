@@ -8,7 +8,7 @@ I love Code!
 
 * 🌍  I'm based in Tamil Nadu
 * 🖥️  See my portfolio at [MyWebsite](http://joshuaimmanuel-netizen.github.io/Legends-destroyers/)
-* ✉️  You can contact me at (mailto:https://www.naukri.com/code360/profile/joshuaimmanuel1)
+
 
 <a href="https://www.github.com/joshuaimmanuel-netizen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/joshuaimmanuel-netizen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
